@@ -1,6 +1,4 @@
 /*********************************************
-Student One (Donia Khamis + 212794630)
-Student Two (Mohammad Diab + 212720841)
 Assignment number:2
 Exercise number:
 ********************************************/
